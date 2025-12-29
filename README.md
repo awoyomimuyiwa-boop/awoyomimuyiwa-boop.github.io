@@ -13,5 +13,5 @@ experimenting with security tools, and staying updated with emerging technologie
 - **Technical Expertise**: Windows & Linux OS, Web & Application Security, Penetration Testing, Risk Assessments, Network Security, Endpoint security,
 - **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awoyomi-Olumuyiwa&show_icons=true&theme=radical)### 
+![GitHub Stats](https://github-readme-stats-p5st8piwx-awoyomi-olumuyiwas-projects.vercel.app)### 
 ✨ Fun Fact: I enjoy analyzing security logs and breaking down cyber attacks to understand **how attackers think** 🧠🔍
